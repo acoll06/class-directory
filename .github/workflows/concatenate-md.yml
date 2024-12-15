@@ -1,0 +1,26 @@
+name: Concatenate Markdown Files
+
+on:
+  push:
+    paths:
+      - 'member-profiles/**'
+
+jobs:
+  concatenate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Concatenate Markdown files with header
+        run: |
+          echo "# Class Directory" > directory.md
+          echo "" >> directory.md
+          cat member-profiles/*.md >> directory.md
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add directory.md
+          git commit -m "Update directory.md" || echo "No changes to commit"
+          git push

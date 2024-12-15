@@ -1,0 +1,18 @@
+name: Protect directory.md
+
+on:
+  pull_request:
+    paths:
+      - 'directory.md'
+
+jobs:
+  check_changes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check if changes are from the concatenate action
+        run: |
+          if [[ $(git log -1 --pretty=format:'%an') != "GitHub Action" ]]; then
+            echo "Changes to directory.md must be made through the concatenate action."
+            exit 1
+          fi
