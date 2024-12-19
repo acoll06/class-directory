@@ -7,6 +7,13 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII6Hz6WQVqBIHPptDOZ3GpW3VOC7Eo9/wFYPe9qv5q1f
 
 ---
+## Dominic Boden
+
+* email: dominickfc1@gmail.com
+* github: Sixchio
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIISYizlB5OAn67bK+fyldyXa/6WyNkQrSql5kOSJNa8n
+
+---
 ## Jaden Chase
 
 * email: J.Chase0021@gmail.com
