@@ -53,6 +53,13 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAqC7PornHjYNIeR5NAH9GOl6MzBGI92K6XN+dNJl8Zx
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFO+vB3IbB8F+IdbbWOlVdg2b6W21ZncHC8jZ/Ljm1df
 
 ---
+## Logan Westgate
+
+* email: logwestgate@gmail.com
+* github: LoganWestgate
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGAqSNPsmm7hPuw5kyoE2cnofAh6nQtkmbUx8+Nxzej5 
+
+---
 
 ## Melisa Victorino 
 
