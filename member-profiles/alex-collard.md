@@ -1,4 +1,4 @@
-## Bender Rodriguez
+## Alex Collard
 
 * email: alexcollard1524@gmail.com
 * github: acoll06
