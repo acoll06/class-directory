@@ -7,6 +7,14 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII6Hz6WQVqBIHPptDOZ3GpW3VOC7Eo9/wFYPe9qv5q1f
 
 ---
+## Ashton Dronchi
+
+* email: ashtondronchi@gmail.com
+* github: ashtondronchi325
+* ssh-key: ssh-ed25519 3tOFyHKenGem+VOaEEqrNapC/FQ7t0ctEEe2r5neJhg
+
+---
+
 ## Dominic Boden
 
 * email: dominickfc1@gmail.com
